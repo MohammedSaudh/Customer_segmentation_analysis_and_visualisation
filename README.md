@@ -10,7 +10,7 @@ The Sales Dashboard for Customer Segmentation can be found here.
 In case of failure of loading Jupyter Notebooks on Github, the following notebooks can be found in nbviewer. Click on the respective hyperlinks to view:
 
     RFM Analysis.ipynb
-    DQA and Data Cleaning CustomerDemographic.ipynb
+   [ DQA and Data Cleaning CustomerDemographic.ipynb]([https://github.com/MohammedSaudh/Customer_segmentation_analysis_and_visualisation/blob/main/customer_address_cleaning.ipynb])
     DQA and Data Cleaning NewCustomerList.ipynb
     DQA and Data Cleaning Transactions.ipynb
     DQA and Data Cleaning Customer Address.ipynb
